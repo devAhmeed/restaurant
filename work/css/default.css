@@ -196,7 +196,7 @@ button.but-header a {
     display: none;
   }
   footer{
-    width: 1345px !important;
+    width: 1440px !important;
   }
 }
 @media (min-width:768px){
