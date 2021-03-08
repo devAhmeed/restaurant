@@ -189,6 +189,9 @@ button.but-header a {
     width: 100%;
     top: 100px;
   }
+  main div.main-sec-4{
+    margin-top: 50px;
+  }
   main div.main-sec-4 div.grid-sec-4{
     column-gap: 35px;
   }
@@ -210,16 +213,6 @@ button.but-header a {
   footer{
     width: 1440px !important;
   }
-}
-@media (min-width:768px){
-  
-}
-@media (min-width:992px){
-
-}
-@media (min-width:1200px){
-
-}
 
 /*----------  Subsection comment block  ----------*/
 
@@ -453,7 +446,6 @@ div.main-sec-3-grid div span.order img{
 div.main-sec-4{
   width: 70%;
   margin: 0 auto;
-  margin-top: 50px;
   min-height: 1650px;
   background-color: #ffffff;
 }
