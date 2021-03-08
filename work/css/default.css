@@ -157,6 +157,11 @@ button.but-header a {
   font-family: myfont-2;
   text-transform: uppercase;
 }
+@media (max-width: 767px){
+  header{
+  width: 359%;
+  }
+}
 /* MAIN */
 main{
   width: 100%;
