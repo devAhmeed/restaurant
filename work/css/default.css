@@ -186,7 +186,7 @@ button.but-header a {
     top: 100px;
   }
   div.main-sec-4{
-    margin-top: 50px;
+    margin-top: 50px !important;
   }
   main div.main-sec-4 div.grid-sec-4{
     column-gap: 35px;
